@@ -1,0 +1,93 @@
+<h1 align="center">
+  <br>
+  <img src="https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_schematic..png" alt="docs/images/LUMISPARK-300X_schematic..png">
+
+  <br>
+  LUMISPARK-300X
+  <br>
+</h1>
+<h3 align="center">
+A hand-wired Zero PCB power conditioner and 3-mode driver for 220V LED strips 
+</h3>
+
+Note :- At top cover image I will replace it with the completed Zero PCB after build.
+
+| Front Render | Back Render | 
+| --- | --- |
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_front_image..png) | ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_back_image..png) | 
+
+Note:- The Image will come after build due to this will built on Zero PCB, So when I solder all components on PCB then the image is taken and uploaded to here!!
+
+## Schematics  
+
+Here are the schematic design,
+
+![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_schematic..png)
+
+## Features
+- **Multi-Stage AC Grid Armour** - A 1A 250V fast cartridge fuse paired with a 07D471K MOV for transient overvoltage surge clamping.
+- **Thermal Inrush Soft-Start** - A 10D-9 NTC thermistor to suppresses turn on current spikes into the high-voltage capacitor bank.
+- **Phase-Angle Dimming Engine** - BT136-600E TRIAC and DB3 DIAC to provide smooth 20% to 100% manual brightness control via a 500kohm's rotary photometer.
+- **Dusk to Dawn Ambient Sensor** - A 5mm LDR with dedicated bypass rocker switch for automated sunset turn-on and dawn shutoff.
+- **147µF 450V Dual Capacitive Hold-Up Bank** - This will delivers a 3 to 4 second cinema fade out and also bridges inverter switchover brownouts.
+- **Switchable Output Modulation** - A dedicated SPST toggle selects between ripple free filtered DC and 50Hz festive sparkle shimmer.
+- **Integrated High-Voltage Safety Bleeders** - The dual 470kohm's 1W resistors provide safe, automatic capacitor discharge upon AC disconnection.
+- **Zero PCB Hand wireable Topology** - A laid out for single-sided 7.5×10cm prototyping boards with safe 5mm high-voltage creepage spacing.
+- **Precision Dusk Sensitivity Calibration** - The dedicated 500kohm's trimmer potentiometer with a 4.7kΩ safety limiter to enable fine-tuning of the ambient sunset switching thresholds.
+
+### The PCB is Zero PCB with 2 layers (bottom and Top) with dimensions 75.00 x 100.00 mm, made to be easily useable for anyone.  
+
+### PCB Schematic Design files are [here](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/hardware) 
+
+## Pinout  
+
+This is a general pinout 
+
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/Pin_Outs..png) | 
+| --- | 
+
+Note :- This image will come after building the board over Zero PCB.
+
+## 3D image of case 
+
+This is a 3D view screenshot of case for board.
+
+| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case..png) | 
+| --- | 
+
+Note :- I not use 3D printing for case's and not added to BOM list due to the cost is very high but if any one want to get this 3D they will get files in 3D files folder.
+
+3D design files are on Onshape [here](https://cad.onshape.com/documents/3162ae1d988daa19885b0bb5/w/f8aedc375001f04fcfb8af69/e/6412ec3de26c3acbdc121c35?renderMode=0&uiState=6ae8ad0b540783f369618e3a)
+
+(Credits to KiCad EDA for KiCad 10, WeEn Semiconductors for the BT136 TRIAC, SAMWHA for the 450V hold-up capacitor, and Hack Club for funding to make this possible.)
+
+## Why was it made?  
+
+While using the normal old LED strip lights for many years for my many fetevials and in some times need, I realised it doesn't have safty, some control, watterprof and quality and I couldn't use it in rainfall, unfortunately I had to think to buy a different high power LED Light Strip with this board built-in then I see that those have waterprof and my board like board built-in but cost is very high and not have my needed full control over every thing and use very low price components which give low quality, but now I designed one with many simplicity's and have full control ever it and the top most need of safty.
+It will also build my soldering skills more best and perfect.
+
+## How you can get one for yourself? 
+
+That is pretty easy, you have all the files you will need in the hardware folder, order the compoents and BOM list items and solder them by your self on Zero PCB and BINGO! You will have it to use for any purpose you want!  
+
+## How do you use it?  
+You can use it as any normal LED Strip light with board but first you want to connect the board output wires to the LED input pins and then plug the board input wire to your wall plug and set the LDR sensitivity using the RV3 potentiometer according to your need and you are good to go!
+It doedn't require any firmware.
+
+## BOM  
+|Name|Purpose          |Quantity|Total Cost (USD)|Link               |Distributor|
+|----|-----------------|--------|----------------|-------------------|-----------|
+|General Purpose Printed Mini Zero PCB Board |To place every component over it and hand solder them using soldering Iron|1       |1.85           |[Zero PCB](https://www.amazon.in/dp/B0CJJJLB2P)|Amazon India     |
+|Components|Needed components to place over Zero PCB and build the working board|1       |36.33           |[Amazon India](https://www.amazon.in)|Amazon India     |
+|LED Rope Light 40 Meter |The board is build for this LED lighting so this is needed to test the board is working or not|1       |14.10          |[LED Rope Light](https://www.amazon.in/gp/product/B0B9YMGJF6)|Amazon India     |
+|LED String Light 90 Meter |I will make total 2 board's so to check both and run both boards at same time this second LED is needed|1       |8.50          |[LED String Light](https://www.amazon.in/gp/product/B0DD3PFZKJ)|Amazon India     |
+|Soldering Wire and Flux |To solder the components over the board and flux to make soldering perfect and strong|1       |4.26           |[Soldering Wire with Flux](https://www.amazon.in/VMTRONIX-Solder-Welfix-Soldering-Rosin-Rich/dp/B0D7ZB2H93)| Amazon India     |
+|Wire|Wire is needed to joint the board input to wall plug and the output to the LED input|1       |6.81           |[Wire](https://www.amazon.in/gp/product/B0F2N62N52)| Amazon India     |
+|MDF Board |MDF Board is needed to make it's case's|1       |2.65           |[MDF Board](https://www.amazon.in/dp/B09PLC82L1)| Amazon India     |
+|Spray Paint (Black) |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case and this is for Base|1       |2.50           |[Spray Paint Black](https://www.amazon.in/gp/product/B08G54WH1J)| Amazon India     |
+|Spray Paint (White) |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case and this is for Lid|1       |2.00           |[Spray Paint White](https://www.amazon.in/gp/product/B08BWRFBZD)| Amazon India     |
+| | | Total | 79.00 |
+
+LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/components_bom.csv)
+
+!!Thanks to ALL!!
