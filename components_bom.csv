@@ -1,0 +1,24 @@
+Item,Designator,Component_Name,Value_Rating,Footprint_Package,Circuit_Qty_Required,Order_Pack_Qty,Pack_Price_INR,Supplier,Link
+1,U1,Dual Operational Amplifier IC,LM358N (36V Low Power),DIP-8 Through-Hole,2,10,125.00,Amazon India,https://amzn.in/d/0g7ZjwF5
+2,XU1,8-Pin DIP IC Socket Base Adaptor,2.54mm Pitch DIP-8,DIP-8 Through-Hole,2,10,145.00,Amazon India,https://amzn.in/d/082tIz1d
+3,Q1,NPN General Purpose Transistor,2N2222A (75V 0.8A),TO-92 Through-Hole,2,25,120.00,Amazon India,https://amzn.in/d/05w4H3Mm
+4,D1,Fast Switching Signal Diode,1N4148 (100V 300mA),DO-35 Axial Glass,2,100,267.00,Amazon India,https://amzn.in/d/0hO3PkQ6
+5,D2,Silicon Rectifier Diode,1N4007 (1A 1000V),DO-41 Axial,2,50,159.00,Amazon India,https://amzn.in/d/0h8ICvps
+6,MIC1,Electret Condenser Microphone,2-Pin Audio Sensor Capsule,Radial 2-Pin Capsule,2,2,99.00,Amazon India,https://amzn.in/d/0iQTqNEF
+7,M1,Flat Coin Vibration Motor,1V-6V DC (10x3mm Micro ERM),10x3mm Coin with Leads,2,10,248.00,Amazon India,https://amzn.in/d/0c9mXr6Q
+8,RV1,DIP Trimmer Potentiometer with Knob,3386P-1-103 (10K Ohm Linear),3386P Through-Hole,2,2,222.00,Amazon India,https://amzn.in/d/0eD7Jw0C
+9,SW1,Mini SPDT Slide Switch,3-Pin ON-OFF (0.3A),3-Pin Through-Hole,2,50,149.00,Amazon India,https://amzn.in/d/05RdQbex
+10,BT1,9V Battery Snap Clip Connector,I-Type 9V Clip with Leads,Wire Lead Connector,2,20,179.00,Amazon India,https://amzn.in/d/0j1Inj6g
+11,R1,Carbon Film Resistor,4.7K Ohm 1/4W (+/-5%),Axial Lead 1/4W,2,100,135.00,Amazon India,https://amzn.in/d/05TYMcig
+12,R2 R3 R7,Carbon Film Resistor,100K Ohm 1/4W (+/-5%),Axial Lead 1/4W,6,100,135.00,Amazon India,https://amzn.in/d/04deKVOo
+13,R4 R5,Carbon Film Resistor,22K Ohm 1/4W (+/-5%),Axial Lead 1/4W,4,100,135.00,Amazon India,https://amzn.in/d/0hemwxct
+14,R6,Carbon Film Resistor,82K Ohm 1/4W (+/-5%),Axial Lead 1/4W,2,100,135.00,Amazon India,https://amzn.in/d/0cBn9lEJ
+15,R8,Carbon Film Resistor,47K Ohm 1/4W (+/-5%),Axial Lead 1/4W,2,100,135.00,Amazon India,https://amzn.in/d/0ceIp6lG
+16,R9,Fixed Carbon Film Resistor,1K Ohm 1/4W (+/-5%),Axial Lead 1/4W,2,100,89.00,Amazon India,https://amzn.in/d/0d4Pso4p
+17,R10,Carbon Film Power Resistor,82 Ohm 1W (+/-5%),Axial Lead 1W,2,30,244.00,Amazon India,https://amzn.in/d/0dVYlhRK
+18,C1 C5,Electrolytic Capacitor,1uF 50V Radial,Radial Can Through-Hole,4,20,145.00,Amazon India,https://amzn.in/d/02rv6F3h
+19,C2,Electrolytic Capacitor,10uF 25V Radial,Radial Can Through-Hole,2,20,289.00,Amazon India,https://amzn.in/d/0gv0fjq0
+20,C3,Polyester Film Capacitor,220nF 100V (2A224J / 0.22uF),Radial Box/Dipped Film,2,10,219.00,Amazon India,https://amzn.in/d/0c7LB52a
+21,C4 C8,Ceramic Disc Capacitor,100nF 50V (Code 104 / 0.1uF),Radial Disc Through-Hole,4,10,194.00,Amazon India,https://amzn.in/d/0gtV9bBM
+22,C6,Electrolytic Capacitor,47uF 25V 105C Radial,Radial Can 5x11mm THT,2,20,115.00,Amazon India,https://amzn.in/d/0iDeZT4S
+23,C7,Low ESR Electrolytic Capacitor,100uF 25V Radial,Radial Can Through-Hole,2,10,112.00,Amazon India,https://amzn.in/d/03tqQRuj
