@@ -3,7 +3,7 @@
   <img src="https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_schematic..png" alt="docs/images/LUMISPARK-300X_schematic..png">
 
   <br>
-  LUMISPARK-300X
+  CineQuake-LFE
   <br>
 </h1>
 <h3 align="center">
