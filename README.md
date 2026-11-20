@@ -52,12 +52,12 @@ Note :- This image will come after building the board over Zero PCB.
 
 This is a 3D view screenshot of case for board.
 
-| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/3D_case..png) | 
+| ![](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/docs/images/3D_case_view.png) | 
 | --- | 
 
 Note :- I not use 3D printing for case's and not added to BOM list due to the cost is very high but if any one want to get this 3D they will get files in 3D files folder.
 
-3D design files are on Onshape [here](https://cad.onshape.com/documents/3162ae1d988daa19885b0bb5/w/f8aedc375001f04fcfb8af69/e/6412ec3de26c3acbdc121c35?renderMode=0&uiState=6ae8ad0b540783f369618e3a)
+3D design files are on Onshape [here](https://cad.onshape.com/documents/4bba22cec4122c4bcc3083e4/w/36bf6bd5371a5c47f1820a45/e/f9805e91552ef832d796fe02?renderMode=0&uiState=6b002dea16bcd8ce7b74e065)
 
 (Credits to KiCad EDA for KiCad 10, Texas Instruments for the LM358N dual op-amp, onsemi for the PN2222A NPN transistor, and Hack Club for funding to make this possible.)
 
