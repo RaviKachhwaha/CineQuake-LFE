@@ -14,7 +14,7 @@ Note :- At top cover image I will replace it with the completed Zero PCB after b
 
 | Front Render | Back Render | 
 | --- | --- |
-| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_front_image..png) | ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/LUMISPARK-300X_back_image..png) | 
+| ![](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/docs/images/CineQuake-LFE_front_image.png) | ![](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/docs/images/CineQuake-LFE_back_image.png) | 
 
 Note:- The Image will come after build due to this will built on Zero PCB, So when I solder all components on PCB then the image is taken and uploaded to here!!
 
@@ -43,7 +43,7 @@ Here are the schematic design,
 
 This is a general pinout 
 
-| ![](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/docs/images/Pin_Outs..png) | 
+| ![](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/docs/images/Pin_Outs.png) | 
 | --- | 
 
 Note :- This image will come after building the board over Zero PCB.
@@ -76,16 +76,13 @@ It doedn't require any firmware.
 |Name|Purpose          |Quantity|Total Cost (USD)|Link               |Distributor|
 |----|-----------------|--------|----------------|-------------------|-----------|
 |General Purpose Printed Mini Zero PCB Board |To place every component over it and hand solder them using soldering Iron|1       |1.85           |[Zero PCB](https://www.amazon.in/dp/B0CJJJLB2P)|Amazon India     |
-|Components|Needed components to place over Zero PCB and build the working board|1       |36.33           |[Amazon India](https://www.amazon.in)|Amazon India     |
-|LED Rope Light 40 Meter |The board is build for this LED lighting so this is needed to test the board is working or not|1       |14.10          |[LED Rope Light](https://www.amazon.in/gp/product/B0B9YMGJF6)|Amazon India     |
-|LED String Light 90 Meter |I will make total 2 board's so to check both and run both boards at same time this second LED is needed|1       |8.50          |[LED String Light](https://www.amazon.in/gp/product/B0DD3PFZKJ)|Amazon India     |
-|Soldering Wire and Flux |To solder the components over the board and flux to make soldering perfect and strong|1       |4.26           |[Soldering Wire with Flux](https://www.amazon.in/VMTRONIX-Solder-Welfix-Soldering-Rosin-Rich/dp/B0D7ZB2H93)| Amazon India     |
-|Wire|Wire is needed to joint the board input to wall plug and the output to the LED input|1       |6.81           |[Wire](https://www.amazon.in/gp/product/B0F2N62N52)| Amazon India     |
-|MDF Board |MDF Board is needed to make it's case's|1       |2.65           |[MDF Board](https://www.amazon.in/dp/B09PLC82L1)| Amazon India     |
-|Spray Paint (Black) |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case and this is for Base|1       |2.50           |[Spray Paint Black](https://www.amazon.in/gp/product/B08G54WH1J)| Amazon India     |
-|Spray Paint (White) |This is needed to make it's MDF case's high quality and fully ready and coted for long life of case and this is for Lid|1       |2.00           |[Spray Paint White](https://www.amazon.in/gp/product/B08BWRFBZD)| Amazon India     |
-| | | Total | 79.00 |
+|Components|Needed components to place over Zero PCB and build the working board|1       |47.33           |[Amazon India](https://www.amazon.in)|Amazon India     |
+|3D printing |3D printing service for 3D printed case|2       |10.00           |[3D printing](https://3ding.in/)| 3Ding     |
+|Rosin Core Soldering Iron Wire |To solder the components over the board|1       |4.96           |[Soldering Wire](https://amzn.in/d/06zNjX09)| Amazon India     |
+|Movie ticket 1 |1st Movie ticket is needed to go to theater and test 1st board, and without it I not able to test the board is working or not|1       |6.65           |[Ticket booking platform](https://in.bookmyshow.com/explore/home)| Book My Show     |
+|Movie ticket 2 |2nd Movie ticket is needed to go to theater and test 2nd board, and without it I not able to test the 2nd board is working or not (and I also not able to test both boards in 1 movie So I need 2 movie ticket's|1       |6.65           |[Ticket booking platform](https://in.bookmyshow.com/explore/home)| Book My Show     |
+| | | Total | 77.44 |
 
-LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/LUMISPARK-300X/blob/main/components_bom.csv)
+LCSC & DigiKey BOM for the components on board is [here](https://github.com/RaviKachhwaha/CineQuake-LFE/blob/main/components_bom.csv)
 
 !!Thanks to ALL!!
